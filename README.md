@@ -8,6 +8,8 @@
 <a href="https://discord.gg/https://discord.com/invite/4SdVmY7Z7c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/4SdVmY7Z7c" height="30" width="40" /></a>
 </p>
 
+<h2>Lenguajes que manejo</h2>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
