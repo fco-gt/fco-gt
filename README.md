@@ -1,6 +1,6 @@
 <h1 align="center">Hola soy Francisco</h1>
 <h3 align="center">Desarrollador de bots de Discord y Junior web developer</h3>
-<h3 align="center">Estudiante Ingenieria Ingenieria Informatica</h3>
+<h3 align="center">Estudiante de Ingenieria Informatica</h3>
 
 - Discord Bot [Mankekito Bot](https://discord.com/oauth2/authorize?client_id=758059320238931978&scope=bot&permissions=805314622)
 
