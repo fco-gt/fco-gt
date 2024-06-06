@@ -30,7 +30,8 @@
 - 🏠 Visita mi portafolio mediante [fco-gt.vercel.app](https://fco-gt.vercel.app).
 <!--Intro end-->
 
-
+<!-- Spotify -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=franomg10&cover_image=false&theme=default&show_offline=false&background_color=0f0f0f&interchange=false&bar_color=058f00&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=franomg10&redirect=true)
 
 <!--- stats & Trophy (start) -->
 <p align="center">
