@@ -100,7 +100,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=fco-gt&icon=3&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=fco-gt&icon=3&color=5)](https://visitcount.itsvg.in)
   
 </div>
 
