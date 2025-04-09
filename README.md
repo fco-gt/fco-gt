@@ -5,33 +5,30 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola, soy Francisco</h1></summary>
+    <summary><h1 style="display: inline-block">Hi, im Francisco</h1></summary>
   </ul>
 </div>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Un poco de mi</h2></summary>
+    <summary><h2 style="display: inline-block">About me</h2></summary>
   </ul>
 </div>
 
 <!--Intro start-->
-- 🔭 Desarrollador Web **React, Next, Nodejs, MongoDB, Typescript**
+- 🔭 Fullstack Developer **React, Next, Nodejs, Astro, PostgreSQL, MongoDB, Typescript**
 
-- 🌱 Me dedico a **estudiar nuevas tecnologias**
+- 🌱 I dedicate myself to **study new technologiess**
 
-- ☁️ Mi principal interes es el Desarrollo Web
+- ☁️ My main interest is Web Development
 
-- 📝 Mi pasatiempo es programar Bots de Discord
+- 📝 My hobby is programming Discord Bots
 
-- 📫 Contactame mediante mi correo **fco.gutierrez1227@gmail.com**
+- 📫 Contact me via my email **fco.gutierrez1227@gmail.com**
 
-- 🏠 Visita mi portafolio mediante [fco-gt.vercel.app](https://fco-gt.vercel.app).
+- 🏠 Visit my portfolio through [fco-gt.vercel.app](https://fco-gt.vercel.app).
 <!--Intro end-->
-
-<!-- Spotify -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=franomg10&cover_image=false&theme=default&show_offline=false&background_color=0f0f0f&interchange=false&bar_color=058f00&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=franomg10&redirect=true)
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -70,7 +67,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologias que manejo</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies I manage</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
