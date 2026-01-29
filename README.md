@@ -17,7 +17,7 @@
 </div>
 
 <!--Intro start-->
-- 🔭 Fullstack Developer **React, Next, Nodejs, Astro, PostgreSQL, MongoDB, Typescript**
+- 🔭 Backend Developer **Nodejs, PostgreSQL, MongoDB, Typescript**
 
 - 🌱 I dedicate myself to **study new technologiess**
 
