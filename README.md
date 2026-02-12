@@ -17,7 +17,7 @@
 </div>
 
 <!--Intro start-->
-- 🔭 Backend Developer **Nodejs, PostgreSQL, MongoDB, Typescript**
+- 🔭 Backend Developer **Go, Nodejs, PostgreSQL, MongoDB, Typescript**
 
 - 🌱 I dedicate myself to **study new technologiess**
 
