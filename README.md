@@ -31,8 +31,7 @@ I approach FullStack from a systems perspective: frontend is a consumer of well-
 - Security hardening and runtime reliability
 
 Active Project:
-- **AuthKit** — Authentication system designed with modular architecture and explicit contracts.
-
+- **GoPotency** — A flexible, framework-agnostic Go package for handling idempotency in HTTP APIs.
 ---
 
 ## Tech Stack
