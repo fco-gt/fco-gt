@@ -1,108 +1,80 @@
-
-<!--horizontal divider(gradiant)-->
+<!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi, im Francisco</h1></summary>
-  </ul>
-</div>
+<h1 align="center">Francisco Gutiérrez</h1>
+<h3 align="center">Backend-First FullStack Developer · TypeScript · Node.js · Go</h3>
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">About me</h2></summary>
-  </ul>
-</div>
+---
 
-<!--Intro start-->
-- 🔭 Backend Developer **Go, Nodejs, PostgreSQL, MongoDB, Typescript**
+## Profile
 
-- 🌱 I dedicate myself to **study new technologiess**
+Backend-oriented developer with strong focus on service design, typed contracts, idempotency, authentication flows and production hardening.
 
-- ☁️ My main interest is Web Development
+I work primarily with Node.js + TypeScript and Go, designing APIs and systems with:
 
-- 📝 My hobby is programming Discord Bots
+- Clear domain modeling  
+- Explicit contracts  
+- Idempotent operations  
+- Observability and resilience  
+- Secure-by-default practices  
 
-- 📫 Contact me via my email **fco.gutierrez1227@gmail.com**
+I approach FullStack from a systems perspective: frontend is a consumer of well-designed services, not an afterthought.
 
-- 🏠 Visit my portfolio through [fco-gt.vercel.app](https://fco-gt.vercel.app).
-<!--Intro end-->
+---
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=fco-gt&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fco-gt&theme=dark&hide_border=false" /> 
-</td>
+## Current Focus
 
-<td width="50%" align="center">
+- Auth systems (self-hosted, ORM-first)
+- API design and middleware architecture
+- Idempotency strategies and request safety
+- CI/CD pipelines and production deployments
+- Security hardening and runtime reliability
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fco-gt&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
+Active Project:
+- **AuthKit** — Authentication system designed with modular architecture and explicit contracts.
 
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=fco-gt&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
+---
 
+## Tech Stack
 
-</p>        
-<!--- stats (end) -->
+### Core Backend
+- Node.js
+- TypeScript
+- Go
+- Express
+- PostgreSQL
+- Prisma
 
+### Web
+- Next.js
+- React
+- Tailwind
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies I manage</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,express,figma,github,html,java,js,md,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
-  </a>
-</p>
+### Infrastructure & Tooling
+- Docker
+- GitHub Actions
+- CI/CD pipelines
+- Linux environments
+- Observability basics (logs, structured errors, metrics-first mindset)
 
+---
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+## Engineering Principles
 
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/francisco-gutiérrez-1b7580254/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://fco-gt.vercel.app/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-  
-</p>
+- Avoid overengineering.
+- Prefer explicitness over magic.
+- Type safety is non-negotiable.
+- Idempotency is a design decision, not an afterthought.
+- Systems should fail predictably.
 
+---
 
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=fco-gt&icon=3&color=5)](https://visitcount.itsvg.in)
-  
-</div>
+## Contact
 
-<!--horizontal divider(gradiant)-->
+- Portfolio: https://fco-gt.vercel.app  
+- LinkedIn: https://www.linkedin.com/in/francisco-gutiérrez-1b7580254/  
+- Email: fco.gutierrez1227@gmail.com  
+
+---
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
